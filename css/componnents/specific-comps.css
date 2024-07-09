@@ -1,0 +1,9 @@
+#theme-toggle {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#new-note-button {
+    width: 100%;
+}
